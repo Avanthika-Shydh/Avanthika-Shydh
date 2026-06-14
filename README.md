@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=111827&center=true&vCenter=true&width=500&lines=B.Tech+ECE+%2B+BS+Data+Science;Building+Intelligent+Systems;Hardware+%2B+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=111827&center=true&vCenter=true&width=500&lines=B.Tech+ELC+%2B+BS+Data+Science;Building+Intelligent+Systems;Hardware+%2B+Intelligence" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I am a **quantitatively-driven dual-degree student** at **IIT Madras**, pursuing
 
 My work sits at the intersection of **hardware and intelligence**. I specialize in developing AI-driven perception models, designing robust embedded systems, and deploying optimized algorithms on edge hardware to solve real-world problems.
 
-- 🎓 **Education**: ECE + Data Science at the Indian Institute of Technology, Madras (IITM).
+- 🎓 **Education**: ELC + Data Science at the Indian Institute of Technology, Madras (IITM).
 - 💼 **Industry**: AI Intern at **Tech Mahindra** (optimized FastAPI backends, 3D workflow simulations, and regex search engines).
 - 📄 **Research**: Published and presented an AI/LiDAR-driven traffic monitoring research paper at **ICISCoIS 2026** at PSG College of Technology.
 - ⚡ **Core Focus**: Edge AI, Computer Vision, Embedded & IoT Architectures, and Predictive Data Science.
