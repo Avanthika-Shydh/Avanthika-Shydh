@@ -1,4 +1,10 @@
-# Hi there, I'm Avanthika Shydh! 👋
+<p align="center">
+  <img src="github_banner.png" alt="Avanthika Shydh Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=B.Tech+ECE+%2B+BS+Data+Science;Building+Intelligent+Systems;Hardware+%2B+Intelligence" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/avanthika-shydh-a5219131a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
