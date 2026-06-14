@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=B.Tech+ECE+%2B+BS+Data+Science;Building+Intelligent+Systems;Hardware+%2B+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=111827&center=true&vCenter=true&width=500&lines=B.Tech+ECE+%2B+BS+Data+Science;Building+Intelligent+Systems;Hardware+%2B+Intelligence" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -103,10 +103,10 @@ My work sits at the intersection of **hardware and intelligence**. I specialize 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avanthika-Shydh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Avanthika's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanthika-Shydh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avanthika-Shydh&show_icons=true&bg_color=F0EBE3&title_color=111827&text_color=4B5563&icon_color=111827&accent_color=111827&border_color=E4DCCF&count_private=true" alt="Avanthika's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanthika-Shydh&layout=compact&bg_color=F0EBE3&title_color=111827&text_color=4B5563&icon_color=111827&accent_color=111827&border_color=E4DCCF&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avanthika-Shydh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avanthika-Shydh&background=F0EBE3&border=E4DCCF&stroke=E4DCCF&ring=111827&fire=111827&currStreakNum=111827&currStreakLabel=4B5563&sideNums=111827&sideLabels=4B5563&dates=4B5563" alt="GitHub Streak" width="97%"/>
 </p>
